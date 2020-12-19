@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>ios.ipa</key>
+	<key>items</key>
 	<array>
 		<dict>
 			<key>assets</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.120.61:8888/expenseybz/app/ios.png</string>
+					<string>http://192.168.120.61:8888/expenseybz/app/app.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.120.61:8888/expenseybz/app/ios.png</string>
+					<string>http://192.168.120.61:8888/expenseybz/app/app.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>YBZ App download</string>
+				<string>YBZ APP</string>
 			</dict>
 		</dict>
 	</array>
